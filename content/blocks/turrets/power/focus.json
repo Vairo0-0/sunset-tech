@@ -30,5 +30,7 @@
     "pierceCap": 3,
   },
 
-  "shootEffect": "Fx.lancerLaserShoot",
+  "shootEffect": {
+    "effect": "Fx.lancerLaserShoot",
+  }
 }
