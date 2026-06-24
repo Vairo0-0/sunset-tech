@@ -5,7 +5,7 @@
   "size": 2
   "armor": 5
   "consumes": {
-    "powerBuffered": 20000
+    "powerBuffered": 18000
   }
   "fullLightColor": "fb9567"
   "emptyLightColor": "f8c266"
