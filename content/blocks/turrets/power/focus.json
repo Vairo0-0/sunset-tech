@@ -1,0 +1,34 @@
+{
+  "type": "PowerTurret",
+  "category": "turret",
+  "size": 1,
+  "health": 260,
+  "recoil": 1,
+  "reload": 70,
+  "range": 120,
+  "rotateSpeed": 7,
+  "targetAir": false,
+  "coolant": {
+    "type": "consumeCoolant",
+    "amount": 0.1,
+  },
+  "shootSound": "Sounds.shootLancer",
+
+  "consumes": {
+    "power": 3.5,
+  },
+
+  "shotType": {
+    "type": "LaserBulletType",
+    "damage": 50,
+    "buildingDamageMultiplier": 0.25,
+    "armorMultiplier": 3,
+    "lifetime": 15,
+    "drawSize": 300,
+    "collidesAir": false,
+    "length": 124,
+    "pierceCap": 3,
+  },
+
+  "shootEffect": "Fx.lancerLaserShoot",
+}
