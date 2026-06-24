@@ -13,8 +13,10 @@
     "inaccuracy": 2
     "shootSound": "shootDuo",
     "researchCostMultiplier": 0.05,
-    "consumes": {
-        "Coolant": 0.1,
+    "consume": {
+        "consumes": [
+            "coolant": 0.1,
+        ]
     },
 
     
