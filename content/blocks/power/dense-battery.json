@@ -1,7 +1,7 @@
 {
   "type": "Battery",
   "category": "power"
-  "heath": 103
+  "health": 150
   "size": 2
   "armor": 5
   "consumes": {
