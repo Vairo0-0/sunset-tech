@@ -16,7 +16,8 @@
     "coolant": {
         "type": "consumeCoolant",
         "amount": 0.1,
-    }
+    },
+    "coolantMultiplier": 10,
     
     "drawer": {
         "type": "drawTurret",
