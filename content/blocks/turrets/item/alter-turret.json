@@ -13,12 +13,8 @@
     "inaccuracy": 2
     "shootSound": "shootDuo",
     "researchCostMultiplier": 0.05,
-    "consume": {
-        "consumes": [
-            "coolant": 0.1,
-        ]
+    "coolant": 0.1
     },
-
     
     "drawer": {
         "type": "drawTurret",
