@@ -13,6 +13,7 @@
     "inaccuracy": 2
     "shootSound": "shootDuo",
     "researchCostMultiplier": 0.05,
+    "coolant": true
     "consumeCoolant": 0.1
     
     "drawer": {
