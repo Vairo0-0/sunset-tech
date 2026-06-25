@@ -20,7 +20,7 @@
 
   "shootType": {
     "shoot": {
-      "shootType": "LaserBulletType",
+      "type": "LaserBulletType",
       "damage": 50,
       "buildingDamageMultiplier": 0.25,
       "armorMultiplier": 3,
