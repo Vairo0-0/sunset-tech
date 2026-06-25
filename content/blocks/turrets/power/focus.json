@@ -27,11 +27,11 @@
     "drawSize": 300,
     "collidesAir": false,
     "length": 124,
-    "width": 8
+    "width": 8,
     "pierceCap": 3,
   },
 
   "shootEffect": {
     "effect": "Fx.lancerLaserShoot",
-  }
+  },
 }
