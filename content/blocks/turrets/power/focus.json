@@ -18,16 +18,18 @@
     "power": 3.5,
   },
 
-  "shootPattern": {
-    "shootType": "LaserBulletType",
-    "damage": 50,
-    "buildingDamageMultiplier": 0.25,
-    "armorMultiplier": 3,
-    "lifetime": 15,
-    "drawSize": 300,
-    "collidesAir": false,
-    "length": 124,
-    "pierceCap": 3,
+  "shootType": {
+    "shoot": {
+      "shootType": "LaserBulletType",
+      "damage": 50,
+      "buildingDamageMultiplier": 0.25,
+      "armorMultiplier": 3,
+      "lifetime": 15,
+      "drawSize": 300,
+      "collidesAir": false,
+      "length": 124,
+      "pierceCap": 3,
+    },
   },
 
   "shootEffect": {
