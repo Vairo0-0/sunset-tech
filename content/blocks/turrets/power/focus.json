@@ -30,8 +30,4 @@
     "width": 8,
     "pierceCap": 3,
   },
-
-  "shootEffect": {
-    "effect": "Fx.lancerLaserShoot",
-  },
 }
