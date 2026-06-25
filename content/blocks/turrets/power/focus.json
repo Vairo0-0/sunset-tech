@@ -18,7 +18,7 @@
     "power": 3.5,
   },
 
-  "shootType": {
+  "shoot": {
     "type": "LaserBulletType",
     "damage": 50,
     "buildingDamageMultiplier": 0.25,
