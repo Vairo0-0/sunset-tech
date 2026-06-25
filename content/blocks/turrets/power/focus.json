@@ -12,7 +12,7 @@
     "type": "consumeCoolant",
     "amount": 0.1,
   },
-  "shootSound": "Sounds.shootLancer",
+  "shootSound": "none",
 
   "consumes": {
     "power": 3.5,
@@ -29,5 +29,6 @@
     "length": 124,
     "width": 8,
     "pierceCap": 3,
+    "shootEffect": "none",
   },
 }
