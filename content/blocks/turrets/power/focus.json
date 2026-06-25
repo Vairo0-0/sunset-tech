@@ -19,7 +19,7 @@
   },
 
   "shootPattern": {
-    "type": "LaserBulletType",
+    "shootType": "LaserBulletType",
     "damage": 50,
     "buildingDamageMultiplier": 0.25,
     "armorMultiplier": 3,
