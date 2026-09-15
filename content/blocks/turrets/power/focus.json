@@ -8,6 +8,12 @@
   "range": 120,
   "rotateSpeed": 7,
   "targetAir": false,
+  "requirements": [
+    "copper/50",
+    "lead/32",
+    "silicon/20",
+  ],
+    
   "coolant": {
     "type": "consumeCoolant",
     "amount": 0.1,
